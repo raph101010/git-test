@@ -3,4 +3,4 @@ def func (a):
 
 print(func(3))
 
-
+print("lol") 
